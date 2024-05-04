@@ -6,9 +6,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my personal website.
-- 🌱 I’m currently learning React and Testing 
-- 👯 I’m looking to collaborate on anything and everything!
-- 🤔 I’m looking for help with Graph CMS
+- 🌱 I’m also currently learning React and Testing 
+- 👯 I’m looking to collaborate on new exciting projects. 
 - 💬 Ask me about my dogs! 🐕
 - 📫 How to reach me: michaiahbos@yahoo.com 
 - 😄 Pronouns: she/her
