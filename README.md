@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<!--
 **mickey55679/mickey55679** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,3 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: michaiahbos@yahoo.com 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I live on a farm with my husband, I used to work with baby calves! 🐮
+-->
